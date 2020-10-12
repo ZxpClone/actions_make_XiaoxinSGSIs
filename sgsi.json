@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://nchc.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.9.17/xiaomi.eu_multi_HMNote7_20.9.17_v12-10.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.9.17_v12-10.zip",
-  "pack_sgsi": "HMNote7_20.9.17_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
+  "rom_url": "https://hugeota.d.miui.com/20.9.29/miui_CEPHEUS_20.9.29_058979311e_10.0.zip",
+  "rom_name": "miui_CEPHEUS_20.9.29_058979311e_10.0.zip",
+  "pack_sgsi": "miui_CEPHEUS_20.9.29_058979311e_10.0.zip",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
