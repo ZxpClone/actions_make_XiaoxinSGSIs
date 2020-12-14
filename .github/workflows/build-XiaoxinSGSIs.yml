@@ -108,7 +108,7 @@ jobs:
            mv make/makeimg.sh make/SGSI.sh make/dynamic_SGSI.sh make/oppo.sh SGSI-build-tool/10/
            mv bin/mke2fs bin/e2fsdroid SGSI-build-tool/10/bin/
            cd SGSI-build-tool/10
-           sudo bash make.sh
+           sudo bash make.sh AB
 
        - name: Prepare Files to Make Patch
          run: |
